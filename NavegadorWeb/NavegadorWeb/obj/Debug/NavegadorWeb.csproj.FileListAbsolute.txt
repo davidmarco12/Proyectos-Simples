@@ -1,0 +1,10 @@
+C:\Users\ads\Documents\C# Nuevo\NavegadorWeb\NavegadorWeb\bin\Debug\NavegadorWeb.exe.config
+C:\Users\ads\Documents\C# Nuevo\NavegadorWeb\NavegadorWeb\bin\Debug\NavegadorWeb.exe
+C:\Users\ads\Documents\C# Nuevo\NavegadorWeb\NavegadorWeb\bin\Debug\NavegadorWeb.pdb
+C:\Users\ads\Documents\C# Nuevo\NavegadorWeb\NavegadorWeb\obj\Debug\NavegadorWeb.csprojAssemblyReference.cache
+C:\Users\ads\Documents\C# Nuevo\NavegadorWeb\NavegadorWeb\obj\Debug\NavegadorWeb.Properties.Resources.resources
+C:\Users\ads\Documents\C# Nuevo\NavegadorWeb\NavegadorWeb\obj\Debug\NavegadorWeb.csproj.GenerateResource.cache
+C:\Users\ads\Documents\C# Nuevo\NavegadorWeb\NavegadorWeb\obj\Debug\NavegadorWeb.csproj.CoreCompileInputs.cache
+C:\Users\ads\Documents\C# Nuevo\NavegadorWeb\NavegadorWeb\obj\Debug\NavegadorWeb.exe
+C:\Users\ads\Documents\C# Nuevo\NavegadorWeb\NavegadorWeb\obj\Debug\NavegadorWeb.pdb
+C:\Users\ads\Documents\C# Nuevo\NavegadorWeb\NavegadorWeb\obj\Debug\NavegadorWeb.Form1.resources
