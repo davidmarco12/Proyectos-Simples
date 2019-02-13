@@ -1,0 +1,14 @@
+C:\Users\ads\Documents\C# Nuevo\ChatCliente-Servidor\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\ads\Documents\C# Nuevo\ChatCliente-Servidor\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\ads\Documents\C# Nuevo\ChatCliente-Servidor\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\ads\Documents\C# Nuevo\ChatCliente-Servidor\Cliente\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+C:\Users\ads\Documents\C# Nuevo\ChatCliente-Servidor\Cliente\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\ads\Documents\C# Nuevo\ChatCliente-Servidor\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\ads\Documents\C# Nuevo\ChatCliente-Servidor\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\ads\Documents\C# Nuevo\ChatCliente-Servidor\Cliente\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\ads\Documents\C# Nuevo\ChatCliente-Servidor\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Users\ads\Documents\C# Nuevo\ChatCliente-Servidor\Cliente\Cliente\obj\Debug\Cliente.pdb
+C:\Users\ads\Documents\C# Nuevo\ChatCliente-Servidor\Cliente\Cliente\bin\Debug\MySql.Data.dll
+C:\Users\ads\Documents\C# Nuevo\ChatCliente-Servidor\Cliente\Cliente\bin\Debug\Google.Protobuf.dll
+C:\Users\ads\Documents\C# Nuevo\ChatCliente-Servidor\Cliente\Cliente\bin\Debug\MySql.Data.xml
+C:\Users\ads\Documents\C# Nuevo\ChatCliente-Servidor\Cliente\Cliente\obj\Debug\Cliente.csproj.CopyComplete
